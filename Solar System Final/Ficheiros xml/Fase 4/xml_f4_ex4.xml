@@ -1,0 +1,14 @@
+<cena>
+	<luzes>
+		<luz tipo="POINT" posX=0 posY=4 posZ=4 />
+	</luzes>
+	<grupo>
+		<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>	
+			<translacao X=2 Y=0 Z=0 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="planotextura1.jpg" diffR=1.0 diffG=1.0 diffB=0.7 />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

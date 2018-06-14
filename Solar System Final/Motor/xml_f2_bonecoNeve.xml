@@ -1,0 +1,66 @@
+<cena>
+	<grupo>
+		<translacao Y=-1 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+		<grupo>
+			<translacao Y=1.4 />
+			<grupo>
+				<escala X=0.5 Y=0.5 Z=0.5 />
+				<modelos>
+					<modelo ficheiro="esfera1.3d" />
+				</modelos>
+				<grupo>
+					<translacao Y=1.5 />
+					<grupo>
+						<escala X=0.6 Y=0.6 Z=0.6 />
+						<modelos>
+							<modelo ficheiro="esfera1.3d" />
+						</modelos>
+					</grupo>
+					<grupo>
+						<rotacao angulo=90 eixoX=1 eixoY=0 eixoZ=0 />
+						<grupo>
+							<translacao Y=0.6 />
+							<escala X=0.1 Y=0.1 Z=0.1 />
+							<modelos>
+								<modelo ficheiro="cone1.3d" />
+							</modelos>
+						</grupo>
+					</grupo>
+					<grupo>
+						<escala X=0.05 Y=0.05 Z=0.05 />
+						<grupo>
+							<translacao X=-5 Y=5 Z=9 />
+							<modelos>
+								<modelo ficheiro="esfera1.3d" />
+							</modelos>
+						</grupo>
+						<grupo>
+							<translacao X=5 Y=5 Z=9 />
+							<modelos>
+								<modelo ficheiro="esfera1.3d" />
+							</modelos>
+						</grupo>
+					</grupo>
+				</grupo>
+			</grupo>
+			<grupo>
+				<escala X=0.3 Y=0.02 Z=0.02 />
+				<grupo>
+					<translacao X=3.5 />
+					<modelos>
+						<modelo ficheiro="para2.3d" />
+					</modelos>
+				</grupo>
+				<grupo>
+					<translacao X=-3.5 />
+					<modelos>
+						<modelo ficheiro="para2.3d" />
+					</modelos>
+				</grupo>
+			</grupo>
+		</grupo>
+	</grupo>
+</cena>

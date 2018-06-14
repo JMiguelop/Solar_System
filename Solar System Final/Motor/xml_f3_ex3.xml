@@ -1,0 +1,12 @@
+<cena>
+	<grupo>
+		<rotacao tempo=10 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=2 Y=0 Z=0 />
+			<rotacao tempo=3 eixoX=0 eixoY=1 eixoZ=0 />
+			<modelos>
+				<modelo ficheiro="plano1.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

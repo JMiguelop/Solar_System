@@ -1,0 +1,16 @@
+<cena>
+	<grupo>
+		<grupo>
+			<translacao tempo=5 >
+				<ponto X=2 Y=0 Z=0 />
+				<ponto X=0 Y=0 Z=-2 />
+				<ponto X=-2 Y=0 Z=0 />
+				<ponto X=0 Y=0 Z=2 />
+			</translacao>
+			<rotacao tempo=3 eixoX=0 eixoY=1 eixoZ=0 />
+			<modelos>
+				<modelo ficheiro="plano1.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

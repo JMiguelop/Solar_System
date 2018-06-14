@@ -1,0 +1,10 @@
+<cena>
+	<luzes>
+		<luz tipo="POINT" posX=-4 posY=1 posZ=0 />
+	</luzes>
+	<grupo>
+		<modelos>
+			<modelo ficheiro="f4_esfera1.3d" textura="urano.jpg" diffR=1.0 diffG=1.0 diffB=0.7 />
+		</modelos>
+	</grupo>
+</cena>

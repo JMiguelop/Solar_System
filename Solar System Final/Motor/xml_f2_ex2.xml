@@ -1,0 +1,48 @@
+<cena>
+	<grupo>
+		<translacao X=1 Y=1 Z=1 />
+		<escala X=1.5 Z=0.9 />
+		<modelos>
+			<modelo ficheiro="plano1.3d" />
+		</modelos>
+		<grupo>
+			<translacao Y=2 />
+			<escala X=1.5 Z=0.5 />
+			<modelos>
+				<modelo ficheiro="plano1.3d" />
+			</modelos>
+			<grupo>
+				<translacao X=1 />
+				<modelos>
+					<modelo ficheiro="plano1.3d" />
+				</modelos>
+			</grupo>
+		</grupo>
+		<grupo>
+			<translacao Z=-2 />
+			<modelos>
+				<modelo ficheiro="plano1.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<translacao X=0 Y=0 Z=0 />
+		<modelos>
+			<modelo ficheiro="plano1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=-5 Y=0 Z=0 />
+		<escala X=2 />
+		<modelos>
+			<modelo ficheiro="esfera3.3d" />
+		</modelos>
+		<grupo>
+			<translacao Y=3 />
+			<escala Y=2 Z=2 />
+			<modelos>
+				<modelo ficheiro="esfera3.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

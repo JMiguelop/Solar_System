@@ -1,0 +1,24 @@
+<cena>
+	<grupo>
+		<luzes>
+			<luz tipo="POINT" posX=0 posY=4 posZ=0 />
+			<luz tipo="POINT" posX=-4 posY=4 posZ=0 />
+		</luzes>
+		<modelos>	
+			<modelo ficheiro="f4_plano1.3d" diffR=0.3 diffG=0.4 diffB=0.5 corR=1.0 corG=1.0 corB=1.0 />
+		</modelos>
+		<grupo>
+			<translacao X=1 Y=1 Z=1 />
+			<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+			<modelos>
+				<modelo ficheiro="f4_plano1.3d" diffR=0.8 diffG=0.2 diffB=0.2 corR=0.1 corG=0.7 corB=0.7 />
+			</modelos>
+		</grupo>
+		<grupo>
+			<translacao X=0 Y=1 Z=-3 />
+			<modelos>
+				<modelo ficheiro="f4_para2.3d" diffR=1.0 diffG=1.0 diffB=0.7 corR=1.0 corG=1.0 corB=0.7 />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

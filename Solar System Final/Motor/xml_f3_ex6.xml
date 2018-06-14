@@ -1,0 +1,21 @@
+<cena>
+	<grupo>
+		<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao tempo=5 >
+			<ponto X=5 Y=0 Z=0 />
+			<ponto X=0 Y=0 Z=-5 />
+			<ponto X=-5 Y=0 Z=0 />
+			<ponto X=0 Y=0 Z=5 />
+		</translacao>
+		<rotacao tempo=2 eixoX=0 eixoY=1 eixoZ=0 />
+		<escala X=0.5 Y=0.5 Z=0.5 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+</cena>

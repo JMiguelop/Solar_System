@@ -1,0 +1,71 @@
+<cena>
+	<grupo>
+		<escala X=2 Y=2 Z=2 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=3.671 />
+		<escala X=0.007 Y=0.007 Z=0.007 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=5.1264 />
+		<escala X=0.0174 Y=0.0174 Z=0.0174 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=6.317 />
+		<escala X=0.018 Y=0.018 Z=0.018 />
+		<modelos>
+			<modelo ficheiro="esfera1.3d" />
+		</modelos>
+		<grupo>
+			<translacao X=4 Y=1 Z=-4 />
+			<escala X=0.2773 Y=0.2773 Z=0.2773 />
+			<modelos>
+				<modelo ficheiro="esfera1.3d" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<translacao X=8.5587 />
+		<escala X=0.0097 Y=0.0097 Z=0.0097 />
+		<modelos>
+			<modelo ficehiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=24.5709 />
+		<escala X=0.2009 Y=0.2009 Z=0.2009 />
+		<modelos>
+			<modelo ficehiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=43.3474 />
+		<escala X=0.1674 Y=0.1674 Z=0.1674 />
+		<modelos>
+			<modelo ficehiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=84.7429 />
+		<escala X=0.0729 Y=0.0729 Z=0.0729 />
+		<modelos>
+			<modelo ficehiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=131.471 />
+		<escala X=0.0708 Y=0.0708 Z=0.0708 />
+		<modelos>
+			<modelo ficehiro="esfera1.3d" />
+		</modelos>
+	</grupo>
+</cena>

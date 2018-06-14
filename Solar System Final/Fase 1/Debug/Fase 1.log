@@ -1,0 +1,97 @@
+﻿Build started 31/05/2015 18:11:37.
+     1>Project "C:\Users\João\Desktop\Fase 4 - G16\Fase 1\Fase 1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Fase 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Gerador.cpp
+         Gerador.cpp
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(84): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(90): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(103): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(106): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(112): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(121): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(125): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(140): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(159): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(173): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(186): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(193): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(201): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(297): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(306): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(309): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(312): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(321): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(325): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(335): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(338): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(355): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(371): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(377): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(380): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(383): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(386): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(396): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(400): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(87): warning C4101: 'normal' : unreferenced local variable
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(429): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(431): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(432): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(434): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(445): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(447): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(448): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(450): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(451): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(458): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(459): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(461): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(462): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(464): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(514): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(551): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(554): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(586): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(589): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(592): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(623): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(626): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(629): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(661): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(664): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(698): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(736): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(739): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(742): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(773): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(776): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(779): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(811): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(814): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(817): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(848): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(851): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(854): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(886): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(889): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(892): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(923): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(926): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(929): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(1024): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(1025): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\joão\desktop\fase 4 - g16\fase 1\gerador.cpp(1026): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Gerador.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Gerador.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Gerador.lib" /MACHINE:X86 Debug\Gerador.obj
+         Fase 1.vcxproj -> C:\Users\João\Desktop\Fase 4 - G16\Debug\Gerador.exe
+     1>Done Building Project "C:\Users\João\Desktop\Fase 4 - G16\Fase 1\Fase 1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54

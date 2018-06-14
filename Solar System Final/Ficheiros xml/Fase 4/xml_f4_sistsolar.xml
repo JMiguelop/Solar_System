@@ -1,0 +1,107 @@
+<cena>
+	<luzes>
+		<luz tipo="POINT" posX=0 posY=0 posZ=0 />
+	</luzes>
+	<grupo>
+		<rotacao tempo=20 eixoX=0 eixoY=1 eixoZ=0 />
+		<escala X=2 Y=2 Z=2 />
+		<modelos>
+			<modelo ficheiro="f4_esfera1.3d" textura="sol.jpg" emiR=0.9 emiG=0.9 emiB=0.0 />
+		</modelos>
+	</grupo>
+	<grupo>
+		<rotacao tempo=10 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=3.671 />
+			<rotacao tempo=10 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.3 Y=0.3 Z=0.3 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="mercurio.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=12 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=5.1264 />
+			<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.3 Y=0.3 Z=0.3 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="venus.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=14 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=6.317 />
+			<rotacao tempo=10 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.3 Y=0.3 Z=0.3 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="terra.jpg" emiR=0.04 emiG=0.04 emiB=0.04 />
+			</modelos>
+			<grupo>
+				<translacao X=2 Y=1 Z=-2 />
+				<escala X=0.1 Y=0.1 Z=0.1 />
+				<modelos>
+					<modelo ficheiro="f4_esfera1.3d" textura="lua.jpg" />
+				</modelos>
+			</grupo>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=16 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=8.5587 />
+			<rotacao tempo=10 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.2 Y=0.2 Z=0.2 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="m.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=18 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=24.5709 />
+			<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.8 Y=0.8 Z=0.8 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="jupiter.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=19 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=43.3474 />
+			<rotacao tempo=15 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.5 Y=0.5 Z=0.5 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="saturno.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=20 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=84.7429 />
+			<rotacao tempo=20 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.3 Y=0.3 Z=0.3 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="urano.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+	<grupo>
+		<rotacao tempo=21 eixoX=0 eixoY=1 eixoZ=0 />
+		<grupo>
+			<translacao X=131.471 />
+			<rotacao tempo=22 eixoX=0 eixoY=1 eixoZ=0 />
+			<escala X=0.3 Y=0.3 Z=0.3 />
+			<modelos>
+				<modelo ficheiro="f4_esfera1.3d" textura="neptuno.jpg" />
+			</modelos>
+		</grupo>
+	</grupo>
+</cena>

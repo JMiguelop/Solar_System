@@ -1,0 +1,35 @@
+<cena>
+	<luzes>
+		<luz tipo="POINT" posX=-4 posY=4 posZ=0 />
+	</luzes>
+	<grupo>
+		<modelos>
+			<modelo ficheiro="f4_plano1.3d" textura="planotextura1.jpg" diffR=1.0 diffG=1.0 diffB=1.0 emiR=0.8 emiG=0.8 emiB=0.5 />
+		</modelos>
+		<grupo>
+			<translacao X=1 Y=1 Z=1 />
+			<modelos>
+				<modelo ficheiro="f4_plano1.3d" diffR=1.0 diffG=1.0 diffB=0.7 />
+			</modelos>
+			<grupo>
+				<translacao X=1 Y=1 Z=1 />
+				<modelos>
+					<modelo ficheiro="f4_plano1.3d" textura="planotextura1.jpg" diffR=1.0 diffG=1.0 diffB=0.7 />
+				</modelos>
+			</grupo>
+		</grupo>
+	</grupo>
+	<grupo>
+		<translacao X=0 Y=2 Z=0 />
+		<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+		<modelos>
+			<modelo ficheiro="f4_plano1.3d" textura="text_plano.jpg" emiR=0.6 emiG=0.6 emiB=0.6 />
+		</modelos>
+	</grupo>
+	<grupo>
+		<translacao X=0 Y=2 Z=-2 />
+		<modelos>
+			<modelo ficheiro="f4_para1.3d" textura="planotextura1.jpg" diffR=1.0 diffG=1.0 diffB=1.0 emiR=0.6 emiG=0.6 emiB=0.6 />
+		</modelos>
+	</grupo>
+</cena>

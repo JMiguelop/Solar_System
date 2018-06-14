@@ -1,0 +1,31 @@
+<cena>
+	<grupo>
+		<translacao X=1 Y=1 Z=1 />
+		<modelos>
+			<modelo ficheiro="plano1.3d" />
+		</modelos>
+		<grupo>
+			<translacao X=2.5 />
+			<modelos>
+				<modelo ficheiro="plano1.3d" />
+			</modelos>
+			<grupo>
+				<rotacao angulo=90 eixoX=1 eixoY=0 eixoZ=0 />
+				<escala X=2 Y=2 Z=2 />
+				<modelos>
+					<modelo ficheiro="esfera1.3d" />
+				</modelos>
+			</grupo>
+		</grupo>
+		<grupo>
+			<translacao X=-2 />
+			<rotacao angulo=90 eixoX=0 eixoY=1 eixoZ=0 />
+			<grupo>
+				<rotacao angulo=45 eixoX=0 eixoY=0 eixoZ=1 />
+				<modelos>
+					<modelo ficheiro="plano1.3d" />
+				</modelos>
+			</grupo>
+		</grupo>
+	</grupo>
+</cena>

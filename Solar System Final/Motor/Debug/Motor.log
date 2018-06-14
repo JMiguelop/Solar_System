@@ -1,0 +1,23 @@
+﻿Build started 31/05/2015 18:11:34.
+     1>Project "C:\Users\João\Desktop\Fase 4 - G16\Motor\Motor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Motor.cpp tinyxml\tinystr.cpp tinyxml\tinyxml.cpp tinyxml\tinyxmlerror.cpp tinyxml\tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         Motor.cpp
+     1>c:\users\joão\desktop\fase 4 - g16\motor\motor.cpp(688): warning C4101: 'pAttrib' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Motor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Motor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\João\Desktop\Fase 4 - G16\Debug\Motor.lib" /MACHINE:X86 Debug\Motor.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Motor.vcxproj -> C:\Users\João\Desktop\Fase 4 - G16\Debug\Motor.exe
+     1>Done Building Project "C:\Users\João\Desktop\Fase 4 - G16\Motor\Motor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.70

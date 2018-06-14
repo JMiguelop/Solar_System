@@ -1,0 +1,9 @@
+<cena>
+	<luzes>
+		<luz tipo="POINT" posX=-4 posY=4 posZ=0 />
+	</luzes>
+	<grupo>
+		<rotacao tempo=5 eixoX=0 eixoY=1 eixoZ=0 />
+		<modelo ficheiro="f4_para2.3d" diffR=1.0 diffG=1.0 diffB=0.7 corR=1.0 corG=1.0 corB=0.7 />
+	</grupo>
+</cena>
